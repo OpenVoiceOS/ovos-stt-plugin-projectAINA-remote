@@ -8,7 +8,7 @@ from speech_recognition import AudioData
 
 class ProjectAINARemoteSTT(STT):
     SERVERS = [
-        "https://h3xisjmpemyv68l1.us-east-1.aws.endpoints.huggingface.cloud",  # citrinet
+        "https://oohrk7fei9v1j2wv.eu-west-1.aws.endpoints.huggingface.cloud",  # citrinet
         "https://zl8yec0awthroezf.eu-west-1.aws.endpoints.huggingface.cloud"  # whisper
     ]
 
