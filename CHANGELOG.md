@@ -1,12 +1,12 @@
 # Changelog
 
-## [0.0.2a1](https://github.com/OpenVoiceOS/ovos-stt-plugin-projectAINA-remote/tree/0.0.2a1) (2024-11-21)
+## [0.0.3a1](https://github.com/OpenVoiceOS/ovos-stt-plugin-projectAINA-remote/tree/0.0.3a1) (2025-06-08)
 
-[Full Changelog](https://github.com/OpenVoiceOS/ovos-stt-plugin-projectAINA-remote/compare/0.0.1...0.0.2a1)
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-stt-plugin-projectAINA-remote/compare/0.0.2...0.0.3a1)
 
 **Merged pull requests:**
 
-- Update citrinet server [\#1](https://github.com/OpenVoiceOS/ovos-stt-plugin-projectAINA-remote/pull/1) ([JarbasAl](https://github.com/JarbasAl))
+- fix: compatibility with ovos-plugin-manager 1.X.X [\#3](https://github.com/OpenVoiceOS/ovos-stt-plugin-projectAINA-remote/pull/3) ([JarbasAl](https://github.com/JarbasAl))
 
 
 
