@@ -2,6 +2,7 @@ from typing import Optional
 
 import requests
 from ovos_plugin_manager.templates.stt import STT
+from ovos_utils import classproperty
 from ovos_utils.log import LOG
 from speech_recognition import AudioData
 
@@ -36,8 +37,8 @@ class ProjectAINARemoteSTT(STT):
                 continue
         raise RuntimeError("Failed to reach Project AINA servers")
 
-    @property
-    def available_languages(self) -> set:
+    @classproperty
+    def available_languages(cls) -> set:
         return {"ca"}
 
 
